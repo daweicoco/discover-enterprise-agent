@@ -1,0 +1,4 @@
+interface:
+  display_name: "Discover Enterprise Agent"
+  short_description: "Discover and define enterprise AI agents from real workflows"
+  default_prompt: "Use $discover-enterprise-agent to identify and define the right enterprise AI agent from a real business process."
